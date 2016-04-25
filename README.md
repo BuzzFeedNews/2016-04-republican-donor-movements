@@ -8,7 +8,7 @@ This repository contains data, code, and methodologies supporting the April TK, 
 
 ## Data
 
-__Federal Election Campaign data__ The FEC provides bulk downloads of campaign finance data from [its website](http://fec.gov/portal/download.shtml). This analysis uses the _Candidate Master File_ and the _Contributions by Individuals_ from the 2015-16 cycle.
+__Federal Election Campaign data__ The FEC provides bulk downloads of campaign finance data from [its website](http://fec.gov/portal/download.shtml). This analysis uses the _Candidate Master File_ and the _Contributions by Individuals_ from the 2015-16 cycle. The _Contributions by Individuals_ file is too large to upload to Github. The version we used for our analysis is available [here](TKTKTK).
 
 ## Analyses
 
