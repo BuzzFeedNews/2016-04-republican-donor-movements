@@ -8,11 +8,11 @@ This repository contains data, code, and methodologies supporting the April TK, 
 
 ## Data
 
-__Federal Election Campaign data__ The FEC provides bulk downloads of campaign finance data from [its website](http://fec.gov/portal/download.shtml). This analysis uses the _Candidate Master File_ and the _Contributions by Individuals_ from the 2015-16 cycle. The _Contributions by Individuals_ file is too large to upload to Github. The version we used for our analysis is available [here](TKTKTK).
+The analyses depend entirely on data from the __Federal Election Commission__. The FEC provides bulk downloads of campaign finance data from [its website](http://fec.gov/portal/download.shtml); this analysis uses the `Candidate Master File` and the `Contributions by Individuals` from the 2015-16 cycle. The `Contributions by Individuals` file is too large to upload to GitHub. The version we used for our analysis is available [here](TKTKTK).
 
 ## Analyses
 
-All analyses can be found in [this notebook](https://github.com/BuzzFeedNews/2016-04-republican-donor-movement/blob/master/notebooks/donor-movement-analysis.ipynb). The methodologies and code there support the following passages from the BuzzFeed News article:
+The full methodology and all code can be found in [this notebook](https://github.com/BuzzFeedNews/2016-04-republican-donor-movements/blob/master/notebooks/donor-movement-analysis.ipynb), which supports the following passages from the BuzzFeed News article:
 
 - TKTKTK
 
