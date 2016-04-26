@@ -1,6 +1,6 @@
 # Analysis of Republican Donor Movement
 
-This repository contains data, code, and methodologies supporting the April 26, 2016 BuzzFeed News article, "[Bush, Rubio Donors Slow To Coalesce Around Cruz In March](https://www.buzzfeed.com/johntemplon/bush-rubio-donors-slow-to-coalesce-around-cruz-in-march)."
+This repository contains data, code, and methodologies supporting the April 26, 2016 BuzzFeed News article, "[Bush, Rubio Donors Didn’t Rush To Support Ted Cruz In March](http://www.buzzfeed.com/johntemplon/bush-rubio-donors-didnt-rush-to-support-ted-cruz-in-march#.emgDn94A7)."
 
 - [Data](#data)
 - [Analyses](#analyses)
